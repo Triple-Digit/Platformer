@@ -1,0 +1,4 @@
+https://github.com/Triple-Digit/Platformer
+WASD to move space to jump 
+you are able to wall jump and wall slide.
+get to the white cube with out touching the black and red hazards
